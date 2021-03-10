@@ -66,6 +66,7 @@ namespace DataStructurePractice.LinkedList
                     removeNode.Next.Prev = removeNode.Prev;
                 }
             }
+            //
             removeNode = null;
         }
 
