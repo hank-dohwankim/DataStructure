@@ -1,6 +1,6 @@
 ﻿namespace DataStructurePractice.LinkedList
 {
-    class DoublyLinkedListNode<T>
+    public class DoublyLinkedListNode<T>
     {
         public T Data { get; set; }
         public DoublyLinkedListNode<T> Prev { get; set; }

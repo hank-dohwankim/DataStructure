@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hank\\source\\repos\\Data_Structure_implementation-Csharp8.0\\DataStructurePractice\\DataStructurePractice.csproj",
+      "projectUniqueName": "C:\\Users\\Hank\\Desktop\\project\\Data_Structure_implementation-Csharp8.0\\DataStructurePractice.csproj",
       "projectName": "DataStructurePractice",
-      "projectPath": "C:\\Users\\Hank\\source\\repos\\Data_Structure_implementation-Csharp8.0\\DataStructurePractice\\DataStructurePractice.csproj",
+      "projectPath": "C:\\Users\\Hank\\Desktop\\project\\Data_Structure_implementation-Csharp8.0\\DataStructurePractice.csproj",
       "packagesPath": "C:\\Users\\Hank\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hank\\source\\repos\\Data_Structure_implementation-Csharp8.0\\DataStructurePractice\\obj\\",
+      "outputPath": "C:\\Users\\Hank\\Desktop\\project\\Data_Structure_implementation-Csharp8.0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
